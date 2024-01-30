@@ -3,9 +3,11 @@ Building models using teachable machines for Deep Learning
 
 
 1. No code models
-   Image:
-   Pose:
-   Audio:
+   Image: Animal image model
+   Pose: Yoga pose model
+   Audio: Guitar audio model
+
+The first two models can be run using a local python server in the browser, the audio model must run in the teachable machine site.
 
 2. On device models with no customization
 
