@@ -9,11 +9,12 @@ Building models using teachable machines for Deep Learning
 The first two models can be run using a local python server in the browser, the audio model must run in the teachable machine site.
 
 2. On device models with no customization:
-   - MediaPipe-Demo.ipynb
+   - MediaPipe-Demo.ipynb (using Face_images)
 
-4. Custom model training blackbox way using transfer learning with mlkit
+3. Custom model training blackbox way using transfer learning with mlkit (AutoML)
 
-5. Custom classifier with keras models
+4. Custom classifier with keras models
+   - Flower-recognizer-Keras.ipynb (using flower_images.zip)
 
 6. Custom classifier deployed on web
 
