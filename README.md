@@ -14,7 +14,7 @@ The first two models can be run using a local python server in the browser, the 
 3. Custom model training blackbox way using transfer learning with mlkit (AutoML)
 
 4. Custom classifier with keras models
-   - Flower-recognizer-Keras.ipynb (using flower_images.zip)
+   - Flower-recognizer-Keras.ipynb (using [flower_images.zip](https://www.kaggle.com/datasets/imsparsh/flowers-dataset))
 
 6. Custom classifier deployed on web
 
