@@ -4,9 +4,7 @@ Building models using teachable machines for Deep Learning
 1. No code models
    Image: Animal image model
    Pose: Yoga pose model
-   Audio: Guitar audio model
-
-The first two models can be run using a local python server in the browser, the audio model must run in the teachable machine site.
+   Audio: Guitar audio model (must be run in browser)
 
 2. On device models with no customization:
    - MediaPipe-Demo.ipynb (using Face_images)
@@ -17,5 +15,6 @@ The first two models can be run using a local python server in the browser, the 
    - Flower-recognizer-Keras.ipynb (using [flower_images.zip](https://www.kaggle.com/datasets/imsparsh/flowers-dataset))
 
 6. Custom classifier deployed on web
+   - Comment_Classifier
 
-7. Embedding based ml app deployed on phone
+8. Embedding based ml app deployed on phone
