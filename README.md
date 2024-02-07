@@ -4,7 +4,7 @@ Building models using teachable machines for Deep Learning
 1. No code models
    - Image: Animal image model
    - Pose: Yoga pose model
-   - Audio: Guitar audio model (must be run in browser)
+   - Audio: Guitar audio model (must be run via mediapipe browser demo)
 
 2. On device models with no customization:
    - MediaPipe-Demo.ipynb (using Face_images)
