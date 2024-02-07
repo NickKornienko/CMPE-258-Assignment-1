@@ -15,7 +15,7 @@ Building models using teachable machines for Deep Learning
    - Flower-recognizer-Keras.ipynb (using https://www.kaggle.com/datasets/imsparsh/flowers-dataset)
 
 5. Custom classifier
-   - Comment_Classifier.ipynb
+   - Comment_Classifier.ipynb (data linked in notebook)
 
 6. Embedding based ml app
    - Product-Search-Embeddings.ipynb (using marketing_sample_for_amazon_com-ecommerce__20200101_20200131__10k_data.csv)
