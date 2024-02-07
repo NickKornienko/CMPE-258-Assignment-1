@@ -12,9 +12,11 @@ Building models using teachable machines for Deep Learning
 3. Custom model training blackbox way using transfer learning with mlkit (AutoML)
 
 4. Custom classifier with keras models
-   - Flower-recognizer-Keras.ipynb (using [flower_images.zip](https://www.kaggle.com/datasets/imsparsh/flowers-dataset))
+   - Flower-recognizer-Keras.ipynb (using https://www.kaggle.com/datasets/imsparsh/flowers-dataset)
 
-6. Custom classifier
+5. Custom classifier
    - Comment_Classifier.ipynb
 
-8. Embedding based ml app
+6. Embedding based ml app
+   - Product-Search-Embeddings.ipynb (using marketing_sample_for_amazon_com-ecommerce__20200101_20200131__10k_data.csv)
+
