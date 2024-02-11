@@ -1,11 +1,8 @@
 let model;
-let labels;
+const labels = ["Cat","Dog","Elephant","Horse","Lion"]
 
 async function loadModel() {
   model = await tf.loadLayersModel("model/model.json");
-  labels = await fetch("model/metadata.json")
-    .then((response) => response.json())
-    .then((data) => data.labels);
   console.log("Model loaded!");
 }
 
